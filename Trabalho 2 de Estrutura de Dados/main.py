@@ -21,7 +21,7 @@ tabela_hash.imprimir_tabela()
 print("=====================================================================")
 # Testar as funções
 print(tabela_hash.buscar('Joao'))  # Verificar se 'Joao' está na tabela
-tabela_hash.deletar('Diana')  # Deletar 'Maria' da tabela
+tabela_hash.deletar('Diana')  # Deletar 'Diana' da tabela
 
 # Imprimir a tabela de hash para visualização
 tabela_hash.imprimir_tabela()
